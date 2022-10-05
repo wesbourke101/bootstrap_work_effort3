@@ -1,0 +1,12 @@
+div .card-header {
+    background: rgb(0, 64, 255);
+}
+div .card-body {
+   background-color: lightskyblue;
+}
+div .col-sm-6 {
+    padding: .5rem;
+}
+div .col-sm-6 .card-body {
+    background-color: rgb(126, 144, 155);
+}
