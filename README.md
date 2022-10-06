@@ -48,3 +48,7 @@ Because i am working in html and ccs i don't need to install any packages. Inste
   </html>
 </body>
 ```
+
+To view in the browser copy and past this: https://wesbourke101.github.io/
+
+This links in the nav bar only go to pictures.
